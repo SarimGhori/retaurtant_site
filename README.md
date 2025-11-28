@@ -29,16 +29,6 @@ JavaScript (optional)
 
 XAMPP for local server
 
-📂 Project Structure
-/restaurant-website
-│── index.php
-│── menu.php
-│── contact.php
-│── submit.php  (PHP form handling file)
-│── /css
-│── /images
-│── /js
-
 ▶️ How to Run
 
 Download or clone the repository
@@ -52,7 +42,7 @@ Start Apache in XAMPP
 
 Open browser and visit:
 
-http://localhost/restaurant-website/
+http://localhost/retaurtant_site/
 
 📧 Contact Form (PHP)
 
